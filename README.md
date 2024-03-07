@@ -11,6 +11,7 @@ https://medium.com/@seifeddinerajhi/kubernetes-dns-a-guide-to-coredns-and-extern
 
 ## Customer-stories
 https://medium.com/adidoescode/adidas-how-we-are-managing-a-container-platform-3-3-d4371c98e2d1
+https://medium.com/volvo-cars-engineering/how-we-are-driving-up-the-quality-of-internal-technical-documentation-at-volvo-cars-with-two-efae4056172c
 
 
 ## watch-later 
