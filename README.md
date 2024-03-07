@@ -7,6 +7,8 @@ https://medium.com/@rphilogene/kubernetes-for-developers-is-the-next-big-thing-4
 
 https://blog.devops.dev/gitops-at-scale-69639c9a3dd7
 
+https://muralia.medium.com/platform-engineering-golden-paths-8575bc75b136
+
 ## Kubernetes-dns
 https://medium.com/@seifeddinerajhi/kubernetes-dns-a-guide-to-coredns-and-externaldns-d8e9347bdddc 
 
